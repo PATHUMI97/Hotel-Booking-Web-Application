@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    text-align: center;
+    
+    
+}
+.wrapper{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+/**.banner-area{
+    width: 100%;
+    height: 600px;
+    position: fixed;
+    top: 0px;
+    background-image: url("images/stylish-girl-posing-with-travel-equipment-red-wall.jpg");
+    background-size: cover;
+    background-position: center center;
+    
+        
+}**/
+
+.sld{
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+    position: fixed;
+    top: 0px;
+    
+}
+.banner{
+    padding-top: 15%;
+    font-size: 70px;
+    font-family: poppins;
+    color: #fff;
+    
+}
+.content-area{
+    width: 100%;
+    position: relative;
+    top: 600px;
+    background: #ddd;
+    
+}
+.content{
+    font-family: bignoodletling;
+    letter-spacing: 4px;
+    font-size: 40px;
+    margin: 0;
+    padding-top: 50px;
+    color: #333333;
+}
+.content-1{
+    font-family: bignoodletling;
+    letter-spacing: 4px;
+    padding-top: 30px;
+    font-size: 20px;
+    margin: 0;
+    color: #00cc00;
+    
+}
+
+.para{
+    padding: 2% 0;
+    font-family: merienda;
+    line-height: 30px;
+}
+
+.admin{
+    width: 100%;
+    height: 800px;
+    position: fixed;
+    top: 0px;
+    background-image:url("imgs/stylish-girl-posing-with-travel-equipment-red-wall.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+.ad-pnl{
+    margin-top: 300px;
+    font-size: 48px;
+    font-family: bignoodletling;
+    letter-spacing: 4px;
+    color: #ffffff;
+    font-weight: bolder;
+}
+.card-1{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-size: cover;
+    position: relative;
+    margin-top: -600px;
+    transition: transform 0.5s;
+}
+.card-1:hover{
+    transform: translate3d(0, -30px, -30px);
+}
+.tbl{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10px;
+}
+.content-area1{
+    width: 100%;
+    position: relative;
+    top: 500px;
+     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    height: 600px;
+}
+
+.img-1{
+    background-image: url("imgs/4860259.jpg");
+}
+
+.img-2{
+    background-image: url("imgs/hotel-white-icons-pack_23-2147498576.jpg");
+}
+
+.img-3{
+    background-image: url("imgs/63769.jpg");
+}
+.content-2{
+  font-family: bignoodletling;
+    letter-spacing: 4px;
+    font-size: 40px;
+    margin: 0;
+    padding-top: 50px;
+    color: #ffffff;  
+}
